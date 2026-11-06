@@ -1,0 +1,1 @@
+variant,target_clock_ns,estimated_clock_ns,latency_min_cycles,latency_max_cycles,interval_min_cycles,interval_max_cycles,lut,ff,dsp,bram_18k,source_report
